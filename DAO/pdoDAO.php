@@ -21,6 +21,7 @@ class pdoDAO implements IDAO{
     }
 
     public function listar() {
+        echo "nao fiz nada";
         
     }
 
